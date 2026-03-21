@@ -41,4 +41,4 @@ The project uses two datasets:
 
 ## Future Improvements
 - Include flight data and travel routes
-- Build a SQL-based version of the dataset
+- Add all data going forward so it continuously updates
