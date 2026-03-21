@@ -13,6 +13,9 @@ The project uses two datasets:
 - Trips: contains trip-level information such as country, city, dates, and purpose
 - Daily Steps: contains daily step counts and distance data linked to each trip
 
+View the dataset here:
+https://docs.google.com/spreadsheets/d/17rL3KDMp3nHCNhkbmmqKN1kglqh1G8oDz1hD2Vni160/edit?usp=sharing
+
 ## Key Features
 - Travel timeline showing trip durations
 - Map of destinations visited
