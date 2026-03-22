@@ -4,8 +4,7 @@
 This project combines travel data with health data to analyse travel behaviour, activity levels, and trip patterns. The dashboard was built using Google Looker Studio and explores insights from trips taken since November 2021.
 
 ## Dashboard
-View the dashboard here:
-https://lookerstudio.google.com/s/kfC9g0nNO3k
+View the dashboard [here](https://lookerstudio.google.com/s/tQRngXjbo8c)
 
 ## Dataset
 The project uses two datasets:
@@ -13,8 +12,7 @@ The project uses two datasets:
 - Trips: contains trip-level information such as country, city, dates, and purpose
 - Daily Steps: contains daily step counts and distance data linked to each trip
 
-View the dataset here:
-https://docs.google.com/spreadsheets/d/17rL3KDMp3nHCNhkbmmqKN1kglqh1G8oDz1hD2Vni160/edit?usp=sharing
+View the dataset [here](https://docs.google.com/spreadsheets/d/17rL3KDMp3nHCNhkbmmqKN1kglqh1G8oDz1hD2Vni160/edit?usp=sharing)
 
 ## Key Features
 - Travel timeline showing trip durations
